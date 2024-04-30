@@ -1,4 +1,4 @@
 # TMU-web
 tmu website
 <br>
-Author - Akash Kumar
+Author - Akash (Developer)
